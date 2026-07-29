@@ -1,17 +1,39 @@
-Olá, me chamo Luísa Barros Ayres Medrado.
+# Olá! Eu sou a Luísa 
 
-Sou formada em Engenharia Civil e atualmente estou cursando um Bootcamp de Análise de Dados.
+## 📊 Analista de Dados Júnior
 
-Minha atuação é focada em aliar programação, estatística e pensamento analítico para direcionar decisões estratégicas.
+Profissional em transição de carreira para Análise de Dados, com formação em Análise de Dados pela TripleTen.
 
-Principais Habilidades:
+Tenho conhecimentos em Python, SQL, Tableau e visualização de dados, com experiência prática em análise exploratória, tratamento e limpeza de dados, visualização, estatística e testes A/B.
 
-Linguagens e Ferramentas: Python (Pandas, NumPy), SQL e Tableau.
+Meu objetivo é transformar dados em insights que apoiem decisões estratégicas e gerem valor para o negócio.
 
-Expertise Analítica: Análise exploratória de dados, testes estatísticos, processos de ETL e visualização de dados.
+---
 
-Idiomas: Inglês intermediário.
+## 🛠️ Tecnologias e conhecimentos
 
-Você pode conferir alguns projetos visitando meu LinkedIn [clicando aqui](https://www.linkedin.com/in/luisaayres/)
+**Linguagens:** Python | SQL
+
+**Bibliotecas:** Pandas | NumPy | Matplotlib | Seaborn 
+
+**Ferramentas:** Jupyter Notebook | Tableau | Excel
+
+**Análise de Dados:** EDA | Limpeza de Dados | Visualização | Estatística | Testes A/B
+
+
+---
+
+## 📫 Contato
+
+[LinkedIn](https://www.linkedin.com/in/luisaayres/) • [E-mail](luisa_ayres@hotmail.com)
+
+---
+
+## 📊 Projetos
+
+| Projeto | Ferramentas | Principais conhecimentos |
+|---|---|---|
+| [** Projeto para a Implantação de Aplicativo Web de Análise de Dados**](https://github.com/luisaayres/car-sales-ads) | Python, Pandas | | Streamlit
+
 
 
