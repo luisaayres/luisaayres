@@ -33,7 +33,6 @@ Meu objetivo é transformar dados em insights que apoiem decisões estratégicas
 
 | Projeto | Ferramentas | Principais conhecimentos |
 |---|---|---|
-| [** Projeto para a Implantação de Aplicativo Web de Análise de Dados**](https://github.com/luisaayres/car-sales-ads) | Python, Pandas | | Streamlit
-
+| [** Projeto para a Implantação de Aplicativo Web de Análise de Dados**](https://github.com/luisaayres/car-sales-ads) | Python, Pandas, Streamlit | EDA, análise de mercado e visualização |
 
 
