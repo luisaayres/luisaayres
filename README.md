@@ -33,6 +33,8 @@ Meu objetivo é transformar dados em insights que apoiem decisões estratégicas
 
 | Projeto | Ferramentas | Principais conhecimentos |
 |---|---|---|
-| [** Projeto para a Implantação de Aplicativo Web de Análise de Dados**](https://github.com/luisaayres/car-sales-ads) | Python, Pandas, Streamlit | EDA, análise de mercado e visualização |
+| [**Projeto para a Implantação de Aplicativo Web de Análise de Dados**](https://github.com/luisaayres/car-sales-ads) | Python, Pandas, Streamlit | EDA, análise de mercado e visualização |
+| [**Análise para Pesquisa de Mercado de Restaurantes em Los Angeles**](https://github.com/luisaayres/los-angeles-restaurant-market-analysis) | Python, Pandas, Numpy, Matplotlib, Seaborn | EDA, Funil de Vendas e Teste A/B |
+| [**Análise de Negócios e Métricas de Marketing para Aumento da Receita**](analise-negocios-metricas-marketing) | Python, Pandas | EDA, análise de mercado e visualização |
 
 
