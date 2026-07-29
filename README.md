@@ -27,10 +27,6 @@ Meu objetivo é transformar dados em insights que apoiem decisões estratégicas
 
 [LinkedIn](https://www.linkedin.com/in/luisaayres) | [Email](mailto:luisa_ayres@hotmail.com) | [WhatsApp](https://wa.me/5531983775576)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/luisaayres/)
-[![Email](https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail)](mailto:luisa_ayres@hotmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contato-green?style=for-the-badge&logo=whatsapp)](https://wa.me/5531983775576)
-
 ---
 
 ## 📊 Projetos
