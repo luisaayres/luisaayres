@@ -18,7 +18,7 @@ Meu objetivo é transformar dados em insights que apoiem decisões estratégicas
 
 **Ferramentas:** Jupyter Notebook | Tableau | Excel
 
-**Análise de Dados:** EDA | Limpeza de Dados | Visualização | Estatística | Testes A/B
+**Análise de Dados:** EDA | Limpeza de Dados | Visualização de Dados | Estatística | Testes A/B
 
 
 ---
