@@ -37,6 +37,6 @@ Meu objetivo é transformar dados em insights que apoiem decisões estratégicas
 | [**Análise de Negócios e Métricas de Marketing para Aumento da Receita**](https://github.com/luisaayres/analise-negocios-metricas-marketing) | Python, Pandas, Numpy, Matplotlib, Seaborn | EDA, Funil de Vendas e Teste A/B |
 | [**Análise para Pesquisa de Mercado de Restaurantes em Los Angeles**](https://github.com/luisaayres/los-angeles-restaurant-market-analysis) | Python, Pandas, Numpy, Matplotlib, Seaborn | EDA, Análise de Mercado e Visualização De Dados |
 | [**Análise de Funil de Conversão e Experimento A/A/B**](https://github.com/luisaayres/analise-funil-conversao-experimento-aa-b) | Python, Pandas, Numpy, Matplotlib, Seaborn | EDA, Funil de Conversão e Testes Estatísticos |
-| [**Análise de Vídeos de Tendências no YouTube**](https://github.com/luisaayres/analise-youtube-trending) | Tableau | EDA, Visualização de Dados, Dashboard Interativo, Análise de Mercado |
+| [**Análise de Vídeos de Tendências no YouTube**](https://github.com/luisaayres/analise-youtube-trending) | Tableau | EDA, Visualização de Dados, Dashboard Interativo e Análise de Mercado |
 
 
