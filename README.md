@@ -10,7 +10,7 @@ Meu objetivo é transformar dados em insights que apoiem decisões estratégicas
 
 ---
 
-## 🛠️ Tecnologias e conhecimentos
+## 🛠️ Tecnologias e Conhecimentos
 
 **Linguagens:** Python | SQL
 
