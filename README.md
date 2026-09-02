@@ -38,5 +38,9 @@ Meu objetivo é transformar dados em insights que apoiem decisões estratégicas
 | [**Análise para Pesquisa de Mercado de Restaurantes em Los Angeles**](https://github.com/luisaayres/los-angeles-restaurant-market-analysis) | Python, Pandas, Numpy, Matplotlib, Seaborn | EDA, Análise de Mercado e Visualização De Dados |
 | [**Análise de Funil de Conversão e Experimento A/A/B**](https://github.com/luisaayres/analise-funil-conversao-experimento-aa-b) | Python, Pandas, Numpy, Matplotlib, Seaborn | EDA, Funil de Conversão e Testes Estatísticos |
 | [**Análise de Vídeos de Tendências no YouTube**](https://github.com/luisaayres/analise-youtube-trending) | Tableau | EDA, Visualização de Dados, Dashboard Interativo e Análise de Mercado |
-
-
+| [**Análise de Vendas de Videogames**](https://github.com/luisaayres/games-loja-ice) | Python, Pandas, Numpy, Matplotlib, Seaborn, SciPy | EDA, Análise de Mercado e Testes Estatísticos |
+| [**Análise de Corridas de Táxi em Chicago**](https://github.com/luisaayres/analise-corridas-taxi-chicago) | Python, Pandas, Numpy, Matplotlib, Seaborn, SciPy | EDA, Testes Estatísticos e Visualização de Dados |
+| [**Análise de Produto, Vendas e Marketing**](https://github.com/luisaayres/analise-investimento-marketing) | Python, Pandas, Numpy, Matplotlib, Seaborn, SciPy | EDA, Análise de Mercado e Visualização de Dados |
+| [**Análise de Churn e Segmentação de Clientes**](https://github.com/luisaayres/model-fitness-churn-analise) | Python, Pandas, Numpy, Matplotlib, Seaborn, SciPy, Scikit-learn | EDA, Análise de Mercado e Visualização de Dados |
+| [**Análise de Teste A/B — Sistema de Recomendação**](https://github.com/luisaayres/teste-ab-sistema-recomendacao) | Python, Pandas, Numpy, Matplotlib, Seaborn, SciPy | EDA, Testes Estatísticos e Visualização de Dados |
+| [**Análise de Banco de Dados de Livros — Proposição de Novo Produto**](https://github.com/luisaayres/analise-sql-mercado-livros) | Python, Pandas, SQLAlchemy, PostgreSQL
