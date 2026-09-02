@@ -35,9 +35,9 @@ Meu objetivo é transformar dados em insights que apoiem decisões estratégicas
 |---|---|---|
 | [**Projeto para a Implantação de Aplicativo Web de Anúncios de Venda de Carros**](https://github.com/luisaayres/car-sales-ads) | Python, Pandas, Streamlit | EDA, Análise de Mercado e Visualização Interativa |
 | [**Análise de Negócios e Métricas de Marketing para Aumento da Receita**](https://github.com/luisaayres/analise-negocios-metricas-marketing) | Python, Pandas, Numpy, Matplotlib, Seaborn | EDA, Funil de Vendas e Teste A/B |
-| [**Análise para Pesquisa de Mercado de Restaurantes em Los Angeles**](https://github.com/luisaayres/los-angeles-restaurant-market-analysis) | Python, Pandas, Numpy, Matplotlib, Seaborn | EDA, Análise de Mercado e Visualização De Dados |
+| [**Análise para Pesquisa de Mercado de Restaurantes em Los Angeles**](https://github.com/luisaayres/los-angeles-restaurant-market-analysis) | Python, Pandas, Numpy, Matplotlib, Seaborn | EDA, Análise de Mercado, Data Storytelling, Visualização e Apresentação de Resultados |
 | [**Análise de Funil de Conversão e Experimento A/A/B**](https://github.com/luisaayres/analise-funil-conversao-experimento-aa-b) | Python, Pandas, Numpy, Matplotlib, Seaborn | EDA, Funil de Conversão e Testes Estatísticos |
-| [**Análise de Vídeos de Tendências no YouTube**](https://github.com/luisaayres/analise-youtube-trending) | Tableau | EDA, Visualização de Dados, Dashboard Interativo e Análise de Mercado |
+| [**Análise de Vídeos de Tendências no YouTube**](https://github.com/luisaayres/analise-youtube-trending) | Tableau | Análise de Mercado, Visualização de Dados, Dashboard Interativo e Apresentação de Resultados |
 | [**Análise de Vendas de Videogames**](https://github.com/luisaayres/games-loja-ice) | Python, Pandas, Numpy, Matplotlib, Seaborn, SciPy | EDA, Análise de Mercado e Testes Estatísticos |
 | [**Análise de Corridas de Táxi em Chicago**](https://github.com/luisaayres/analise-corridas-taxi-chicago) | Python, Pandas, Numpy, Matplotlib, Seaborn, SciPy | EDA, Testes Estatísticos e Visualização de Dados |
 | [**Análise de Produto, Vendas e Marketing**](https://github.com/luisaayres/analise-investimento-marketing) | Python, Pandas, Numpy, Matplotlib, Seaborn, SciPy | EDA, Análise de Mercado e Visualização de Dados |
