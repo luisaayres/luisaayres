@@ -43,4 +43,5 @@ Meu objetivo é transformar dados em insights que apoiem decisões estratégicas
 | [**Análise de Produto, Vendas e Marketing**](https://github.com/luisaayres/analise-investimento-marketing) | Python, Pandas, Numpy, Matplotlib, Seaborn, SciPy | EDA, Análise de Mercado e Visualização de Dados |
 | [**Análise de Churn e Segmentação de Clientes**](https://github.com/luisaayres/model-fitness-churn-analise) | Python, Pandas, Numpy, Matplotlib, Seaborn, SciPy, Scikit-learn | EDA, Análise de Mercado e Visualização de Dados |
 | [**Análise de Teste A/B — Sistema de Recomendação**](https://github.com/luisaayres/teste-ab-sistema-recomendacao) | Python, Pandas, Numpy, Matplotlib, Seaborn, SciPy | EDA, Testes Estatísticos e Visualização de Dados |
-| [**Análise de Banco de Dados de Livros — Proposição de Novo Produto**](https://github.com/luisaayres/analise-sql-mercado-livros) | Python, Pandas, SQLAlchemy, PostgreSQL | SQL
+| [**Análise de Banco de Dados de Livros — Proposição de Novo Produto**](https://github.com/luisaayres/analise-sql-mercado-livros) | Python, Pandas, SQLAlchemy, PostgreSQL | SQL |
+| [**Análise de Eficiência no Atendimento**](https://github.com/luisaayres/analise-eficiencia-atendimento) | Python, Pandas, SQL |  Power BI, Visualização de Dados, Dashboard Interativo e Apresentação de Resultados |
