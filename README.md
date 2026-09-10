@@ -45,3 +45,4 @@ Meu objetivo é transformar dados em insights que apoiem decisões estratégicas
 | [**Análise de Teste A/B — Sistema de Recomendação**](https://github.com/luisaayres/teste-ab-sistema-recomendacao) | Python, Pandas, Numpy, Matplotlib, Seaborn, SciPy | EDA, Testes Estatísticos e Visualização de Dados |
 | [**Análise de Banco de Dados de Livros — Proposição de Novo Produto**](https://github.com/luisaayres/analise-sql-mercado-livros) | Python, Pandas, SQLAlchemy, PostgreSQL | SQL |
 | [**Análise de Eficiência no Atendimento**](https://github.com/luisaayres/analise-eficiencia-atendimento) | Power BI, DAX |  Visualização de Dados, Dashboard Interativo, Apresentação de Resultados, Business Inteligence |
+| [**Análise de Vendas no Varejo**](https://github.com/luisaayres/analise-vendas-varejo) | Power BI, DAX |  Visualização de Dados, Dashboard Interativo, Apresentação de Resultados, Business Inteligence |
