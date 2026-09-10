@@ -16,7 +16,7 @@ Meu objetivo é transformar dados em insights que apoiem decisões estratégicas
 
 **Bibliotecas:** Pandas | NumPy | Matplotlib | Seaborn | Streamlit
 
-**Ferramentas:** Jupyter Notebook | Power BI | Tableau | Excel
+**Ferramentas:** Jupyter Notebook | VS Code | Power BI | Tableau | Excel
 
 **Análise de Dados:** EDA | Limpeza de Dados | Visualização de Dados | Estatística | Testes A/B
 
