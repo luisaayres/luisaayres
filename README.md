@@ -4,7 +4,7 @@
 
 Profissional em transição de carreira para Análise de Dados, com formação em Análise de Dados pela TripleTen.
 
-Tenho conhecimentos em Python, SQL, Tableau e visualização de dados, com experiência prática em análise exploratória, tratamento e limpeza de dados, visualização, estatística e testes A/B.
+Tenho conhecimentos em Python, SQL, Power BI, Tableau e visualização de dados, com experiência prática em análise exploratória, tratamento e limpeza de dados, visualização, estatística e testes A/B.
 
 Meu objetivo é transformar dados em insights que apoiem decisões estratégicas e gerem valor para o negócio.
 
@@ -16,7 +16,7 @@ Meu objetivo é transformar dados em insights que apoiem decisões estratégicas
 
 **Bibliotecas:** Pandas | NumPy | Matplotlib | Seaborn 
 
-**Ferramentas:** Jupyter Notebook | Tableau | Excel
+**Ferramentas:** Jupyter Notebook | Power BI | Tableau | Excel
 
 **Análise de Dados:** EDA | Limpeza de Dados | Visualização de Dados | Estatística | Testes A/B
 
