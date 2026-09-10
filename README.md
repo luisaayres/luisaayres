@@ -14,7 +14,7 @@ Meu objetivo é transformar dados em insights que apoiem decisões estratégicas
 
 **Linguagens:** Python | SQL
 
-**Bibliotecas:** Pandas | NumPy | Matplotlib | Seaborn 
+**Bibliotecas:** Pandas | NumPy | Matplotlib | Seaborn | Streamlit
 
 **Ferramentas:** Jupyter Notebook | Power BI | Tableau | Excel
 
